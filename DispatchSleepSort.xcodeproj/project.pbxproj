@@ -27,7 +27,7 @@
 		001A4D7E138F757D00E4CAE5 /* DispatchSleepSort */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DispatchSleepSort; sourceTree = BUILT_PRODUCTS_DIR; };
 		001A4D82138F757D00E4CAE5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		001A4D85138F757E00E4CAE5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		001A4D88138F757E00E4CAE5 /* DispatchSleepSort-Prefix.pch */ = {isa = PBXFileReference; path = "DispatchSleepSort-Prefix.pch"; sourceTree = "<group>"; };
+		001A4D88138F757E00E4CAE5 /* DispatchSleepSort-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DispatchSleepSort-Prefix.pch"; sourceTree = "<group>"; };
 		001A4D89138F757E00E4CAE5 /* DispatchSleepSort.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = DispatchSleepSort.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
